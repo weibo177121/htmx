@@ -2,6 +2,15 @@
 base    = "www"
 publish = "public"
 command = "zola build"
+base    = "www"
+publish = "public"
+command = "zola build"base    = "www"
+publish = "public"
+command = "zola build"base    = "www"
+publish = "public"
+command = "zola build"base    = "www"
+publish = "public"
+command = "zola build"
 
 [build.environment]
 ZOLA_VERSION = "0.17.1"
